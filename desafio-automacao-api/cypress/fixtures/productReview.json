@@ -1,0 +1,18 @@
+{
+    "reviewValido": {
+        "product_id": 22,
+        "reviewer" : "John Doe",
+        "rating" : 5,
+        "review": "Nice album"
+    },
+
+    "reviewUptate" : {
+        "rating" : 5
+    },
+
+    "reviewDelete" : {
+        "force" : true,
+        "deleted" : true
+    }
+
+}
